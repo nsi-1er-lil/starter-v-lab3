@@ -48,17 +48,6 @@ $$
 
 **Exercice 5 [Cercle]**  
 L'algorithme incomplet suivant donne une fonction permettant de calculer le périmètre d'un cercle.
-
-$$
-\begin{array}{l}
-\text{Algorithme 2} \\
-c \gets \text{côté du carré} \\
-P \gets 4 \times c \\
-A \gets c^2 \\
-b \gets (A > 5)
-\end{array}
-$$
-
 $$
 \begin{array}{l}
 \text{Algorithme 3} \\
