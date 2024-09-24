@@ -50,6 +50,14 @@ $$
 L'algorithme incomplet suivant donne une fonction permettant de calculer le périmètre d'un cercle.
 
 
+$$
+\begin{array}{l}
+\text{Algorithme 3} \\
+\textbf{périmètre\_cercle}(\text{...}) \\
+\text{perimetre} \gets \text{...} \\
+\text{return ...}
+\end{array}
+$$
 
 1. Quelle est la formule permettant de calculer le périmètre d'un cercle ?
 2. Quel argument doit prendre en entrée la fonction **périmètre_cercle** ? Quel serait le type de cet argument ?
