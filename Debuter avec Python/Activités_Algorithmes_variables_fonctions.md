@@ -52,6 +52,15 @@ L'algorithme incomplet suivant donne une fonction permettant de calculer le pér
 $$
 \begin{array}{l}
 \text{Algorithme 3} \\
+\textbf{périmètre\_cercle}(\text{...}) \\
+\text{perimetre} \gets \text{...} \\
+\text{return ...}
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+\text{Algorithme 3} \\
 \textbf{perimetre\_cercle}(\text{...}) \\
 \text{perimetre} \gets \text{...} \\
 \text{return ...}
