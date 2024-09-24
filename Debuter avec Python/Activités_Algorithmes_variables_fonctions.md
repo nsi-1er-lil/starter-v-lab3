@@ -45,6 +45,8 @@ $$
 4. À quoi correspondent les variables $P$, $A$ et $b$ ?
 5. Que penser du nom de ces variables ?
 5. Proposer le code en Python de cet Algorithme dans un fichier au nom `exercice_4.py` que vous placerez dans ce dossier `Debuter avec Python`
+6. Proposer une fonction perimetre qui calcul le perimetre d'un carre `perimetre(x)` dans le meme fichier `exercice_4.py`
+7. Proposer une fonction surface qui calcul la surface d'un carre `surface(x)` dans le meme fichier `exercice_4.py`
 
 **Exercice 5 [Cercle]**  
 L'algorithme incomplet suivant donne une fonction permettant de calculer le périmètre d'un cercle.

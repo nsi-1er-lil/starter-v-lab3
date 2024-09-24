@@ -40,5 +40,27 @@ def test_exercice_4():
     assert A == 6.25
     assert b == True
 
+# Test de la fonction perimetre
+def test_perimetre():
+    # Cas où le côté est 2, le périmètre doit être 8
+    assert exercice_4.perimetre(2) == 8
+    # Cas où le côté est 3, le périmètre doit être 12
+    assert exercice_4.perimetre(3) == 12
+    # Cas où le côté est 0, le périmètre doit être 0
+    assert exercice_4.perimetre(0) == 0
+    # Cas où le côté est 2.5, le périmètre doit être 10
+    assert exercice_4.perimetre(2.5) == 10
+
+# Test de la fonction surface
+def test_surface():
+    # Cas où le côté est 2, la surface doit être 4
+    assert exercice_4.surface(2) == 4
+    # Cas où le côté est 3, la surface doit être 9
+    assert exercice_4.surface(3) == 9
+    # Cas où le côté est 0, la surface doit être 0
+    assert exercice_4.surface(0) == 0
+    # Cas où le côté est 2.5, la surface doit être 6.25
+    assert exercice_4.surface(2.5) == 6.25
+
 # Exécuter pytest en ligne de commande pour tester:
 # pytest test_exercice_4.py
