@@ -49,14 +49,6 @@ $$
 **Exercice 5 [Cercle]**  
 L'algorithme incomplet suivant donne une fonction permettant de calculer le périmètre d'un cercle.
 
-$$
-\begin{array}{l}
-\text{Algorithme 3} \\
-\textbf{périmètre\_cercle}(\text{...}) \\
-\text{perimetre} \gets \text{...} \\
-\text{return ...}
-\end{array}
-$$
 
 
 1. Quelle est la formule permettant de calculer le périmètre d'un cercle ?
